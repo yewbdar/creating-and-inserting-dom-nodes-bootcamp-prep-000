@@ -2,4 +2,5 @@
 //you can use this to paste in js code and have it run when index.html is loaded
 const e = document.createElement('div')
 e.innerHTML='hllo there'
+e.style.backgroundcolor='#333'
 document.body.appendChild(e);
